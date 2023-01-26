@@ -52,4 +52,4 @@ The follwoing table had some of the countries i would like to visit in my life.
     .module,
     body.alternate .module
     ";
-   
+    [Link to Source](https://css-tricks.com/snippets/sass/use-sass-variable-selector/)
