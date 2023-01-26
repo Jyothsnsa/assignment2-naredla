@@ -46,12 +46,7 @@ The follwoing table had some of the countries i would like to visit in my life.
 
 ### Code Fencing
 
-> Use a Sass Variable for a Selector - [Click Here](https://stackoverflow.com/questions/12743837/can-i-use-variables-for-selectors)
-
-` $selectors: "
-  .module,
-  body.alternate .module
-"; `
+> Use a Sass Variable for a Selector - [Click Here for Stackoverflow](https://stackoverflow.com/questions/12743837/can-i-use-variables-for-selectors)
 
     $selectors: "
     .module,
