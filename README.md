@@ -21,5 +21,4 @@ Unordered List with Other Teams good to watch
 - Illinois Fighting Illini
 - Kansas State Wildcats
 
-###### Added Link to About Me [Click Here](https://github.com/Jyothsnsa/assignment2-naredla/blob/main/AboutMe.md)
 
