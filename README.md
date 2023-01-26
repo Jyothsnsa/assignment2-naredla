@@ -21,4 +21,15 @@ Unordered List with Other Teams good to watch
 - Illinois Fighting Illini
 - Kansas State Wildcats
 
+***
 
+### Tables
+
+The follwoing table had some of the countries i would like to visit in my life.
+
+| Name of the Country | Reason to Visit | Days to Spend |
+|       :---:         |     :---:       |      :---:    |
+|       India         |     Birth Place |    30 Days    |
+|       USA           |     Master's    |    720 Days   |
+|      Singapore      |    Holiday trip |    10 Days    |
+|     Malaysia        |   Batu Caves    |    25 Days    |
