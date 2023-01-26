@@ -41,3 +41,14 @@ The follwoing table had some of the countries i would like to visit in my life.
 > Keep smiling, because life is a beautiful thing and there's so much to smile about. - *Stephen King*
 >
 > The purpose of our lives is to be happy. - *Dalai Lama*
+
+***
+
+### Code Fencing
+
+> Use a Sass Variable for a Selector - [Click Here](https://stackoverflow.com/questions/12743837/can-i-use-variables-for-selectors)
+
+` $selectors: "
+  .module,
+  body.alternate .module
+"; `
