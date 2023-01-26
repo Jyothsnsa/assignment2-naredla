@@ -9,7 +9,7 @@ It Helps me meet new people and hang out with them frequently adnd teaches me ho
 ***
 
 ##### Ordered List
-Nebraska Cornhuskers men's basketball
+My Fav Team is Nebraska Cornhuskers men's basketball
 1. Keisei Tominaga
 2. Oleg Kojenets
 3. Jeff Grace
