@@ -52,3 +52,9 @@ The follwoing table had some of the countries i would like to visit in my life.
   .module,
   body.alternate .module
 "; `
+
+    $selectors: "
+    .module,
+    body.alternate .module
+    ";
+   
