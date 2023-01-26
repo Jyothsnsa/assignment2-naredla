@@ -13,3 +13,9 @@ My Fav Team is Nebraska Cornhuskers men's basketball
 1. Keisei Tominaga
 2. Oleg Kojenets
 3. Jeff Grace
+
+Unordered List with Other Teams good to watch
+
+- Northwestern Wildcats
+- Illinois Fighting Illini
+- Kansas State Wildcats
