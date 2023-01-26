@@ -33,3 +33,10 @@ The follwoing table had some of the countries i would like to visit in my life.
 |       USA           |     Master's    |    720 Days   |
 |      Singapore      |    Holiday trip |    10 Days    |
 |     Malaysia        |   Batu Caves    |    25 Days    |
+
+***
+
+### Pithy Quotes
+
+> Keep smiling, because life is a beautiful thing and there's so much to smile about. *Stephen King*
+> The purpose of our lives is to be happy. - *Dalai Lama*
